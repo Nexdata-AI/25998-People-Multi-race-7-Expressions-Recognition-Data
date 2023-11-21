@@ -29,4 +29,4 @@ the image data format are .jpg, .jpeg, png
 the accuracy exceeds 97% based on the accuracy of expressions; the accuracy of expression naming is more than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
