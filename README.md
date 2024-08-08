@@ -4,7 +4,7 @@
 ## Description
 25,998 People Multi-race 7 Expressions Recognition Data. The data includes male and female. The age distribution ranges from child to the elderly, the young people and the middle aged are the majorities. For each person, 7 images were collected. The data diversity includes different facial postures, different expressions, different light conditions and different scenes. The data can be used for tasks such as face expression recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/973?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/973?source=Github
 
 
 ## Data size
